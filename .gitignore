@@ -189,3 +189,7 @@ pyrightconfig.json
 #
 # raw data
 raw_data/
+
+#.gitignore
+.gitignore
+
